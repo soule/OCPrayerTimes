@@ -18,6 +18,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <CoreLocation/CoreLocation.h>
 
 /** 
  * These constants are used to specify the prayer times calculation method. 
